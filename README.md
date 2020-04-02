@@ -1,1 +1,4 @@
 # FantasticSummer
+* sea
+* coctails
+* sun
